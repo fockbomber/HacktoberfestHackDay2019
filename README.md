@@ -7,12 +7,8 @@ Hacktoberfest Open Hack Day 2019
 ## How to raise a Pull Request:
 * Fork the current repository
 * Clone your forked repository
-* Create a branch
-** "git checkout -b <branch-name>"
-* Stage your modifications
-** "git add *"
-* Commit your modifications
-** "git commit -m <commit-message>"
-* Push the modifications to GitHub
-** "git push origin <branch-name>"
+* Create a branch -> git checkout -b branch-name
+* Stage your modifications -> git add *
+* Commit your modifications -> git commit -m <commit-message>
+* Push the modifications to GitHub -> git push origin <branch-name>
 * Click on the link for creating Pull Request and raise your PR
